@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ConsoleApplication14.cpp
+c:\users\homer\source\repos\consoleapplication14\consoleapplication14\consoleapplication14.cpp(8): error C2440: 'default argument': cannot convert from 'const char [2]' to 'char'
+  c:\users\homer\source\repos\consoleapplication14\consoleapplication14\consoleapplication14.cpp(8): note: There is no context in which this conversion is possible

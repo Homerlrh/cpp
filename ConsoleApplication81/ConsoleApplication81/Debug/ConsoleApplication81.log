@@ -1,0 +1,3 @@
+﻿  ConsoleApplication81.cpp
+c:\users\homer\source\repos\consoleapplication81\consoleapplication81\consoleapplication81.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ConsoleApplication81.vcxproj -> C:\Users\Homer\source\repos\ConsoleApplication81\Debug\ConsoleApplication81.exe

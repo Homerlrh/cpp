@@ -1,0 +1,7 @@
+﻿  ConsoleApplication70.cpp
+  emoployee.cpp
+  Generating Code...
+emoployee.obj : error LNK2005: "public: void __thiscall emoployee::display(void)" (?display@emoployee@@QAEXXZ) already defined in ConsoleApplication70.obj
+emoployee.obj : error LNK2005: "public: void __thiscall emoployee::get_income(int,int,int)" (?get_income@emoployee@@QAEXHHH@Z) already defined in ConsoleApplication70.obj
+emoployee.obj : error LNK2005: "public: void __thiscall emoployee::get_name(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?get_name@emoployee@@QAEXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) already defined in ConsoleApplication70.obj
+C:\Users\Homer\source\repos\ConsoleApplication70\Debug\ConsoleApplication70.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,3 @@
+﻿  ConsoleApplication51.cpp
+c:\users\homer\source\repos\consoleapplication51\consoleapplication51\consoleapplication51.cpp(19): warning C4101: 'n': unreferenced local variable
+  ConsoleApplication51.vcxproj -> C:\Users\Homer\source\repos\ConsoleApplication51\Debug\ConsoleApplication51.exe

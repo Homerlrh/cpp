@@ -1,0 +1,23 @@
+﻿  Source.cpp
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\source.cpp(12): error C2065: 'cout': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\source.cpp(13): error C2065: 'cout': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\source.cpp(14): error C2065: 'cin': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\source.cpp(15): error C2065: 'cout': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\source.cpp(15): error C2065: 'endl': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\source.cpp(16): error C2065: 'cin': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\source.cpp(17): error C2065: 'cout': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\source.cpp(18): error C2065: 'cin': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\source.cpp(20): error C2065: 'cout': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\source.cpp(20): error C2065: 'endl': undeclared identifier
+  ConsoleApplication2.cpp
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(12): error C2065: 'cout': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(13): error C2065: 'cout': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(14): error C2065: 'cin': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(15): error C2065: 'cout': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(15): error C2065: 'endl': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(16): error C2065: 'cin': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(17): error C2065: 'cout': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(18): error C2065: 'cin': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(20): error C2065: 'cout': undeclared identifier
+c:\users\homer\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(20): error C2065: 'endl': undeclared identifier
+  Generating Code...

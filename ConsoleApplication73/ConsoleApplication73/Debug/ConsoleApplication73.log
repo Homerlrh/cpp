@@ -1,0 +1,147 @@
+﻿  LINKED_BAG_.cpp
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(15): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(15): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(15): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(15): error C2039: 'LinkedBag': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(16): error C2448: 'itemCount': function-style initializer appears to be a function definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(20): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(20): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(20): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(20): error C2039: 'LinkedBag': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(21): error C2143: syntax error: missing ';' before '{'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(21): error C2447: '{': missing function header (old-style formal list?)
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(60): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(60): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(60): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(60): error C2039: 'LinkedBag': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(61): error C2143: syntax error: missing ';' before '{'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(61): error C2447: '{': missing function header (old-style formal list?)
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(66): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(66): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(66): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(66): error C2039: 'isEmpty': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(67): error C2143: syntax error: missing ';' before '{'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(67): error C2447: '{': missing function header (old-style formal list?)
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(72): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(72): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(72): error C2371: 'LinkedBag': redefinition; different basic types
+  c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(66): note: see declaration of 'LinkedBag'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(72): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(72): error C2039: 'getCurrentSize': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(73): error C2143: syntax error: missing ';' before '{'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(73): error C2447: '{': missing function header (old-style formal list?)
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(78): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(78): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(78): error C2374: 'LinkedBag': redefinition; multiple initialization
+  c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(66): note: see declaration of 'LinkedBag'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(78): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(78): error C2039: 'add': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(79): error C2143: syntax error: missing ';' before '{'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(79): error C2447: '{': missing function header (old-style formal list?)
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(94): error C2039: 'vector': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.13.26128\include\cstddef(16): note: see declaration of 'std'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(94): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(94): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(94): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(94): error C2039: 'toVector': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(95): error C2143: syntax error: missing ';' before '{'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(95): error C2447: '{': missing function header (old-style formal list?)
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(110): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(110): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(110): error C2374: 'LinkedBag': redefinition; multiple initialization
+  c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(66): note: see declaration of 'LinkedBag'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(110): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(111): error C2143: syntax error: missing ';' before '{'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(111): error C2447: '{': missing function header (old-style formal list?)
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(135): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(135): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(135): error C2182: 'LinkedBag': illegal use of type 'void'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(135): error C2371: 'LinkedBag': redefinition; different basic types
+  c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(66): note: see declaration of 'LinkedBag'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(135): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(135): error C2039: 'clear': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(136): error C2143: syntax error: missing ';' before '{'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(136): error C2447: '{': missing function header (old-style formal list?)
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(154): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(154): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(154): error C2371: 'LinkedBag': redefinition; different basic types
+  c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(66): note: see declaration of 'LinkedBag'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(154): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(154): error C2039: 'getFrequencyOf': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(155): error C2143: syntax error: missing ';' before '{'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(155): error C2447: '{': missing function header (old-style formal list?)
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(174): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(174): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(174): error C2374: 'LinkedBag': redefinition; multiple initialization
+  c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(66): note: see declaration of 'LinkedBag'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(174): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(174): error C2039: 'contains': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(175): error C2143: syntax error: missing ';' before '{'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(175): error C2447: '{': missing function header (old-style formal list?)
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(214): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(214): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(214): error C2040: 'LinkedBag': 'Node<ItemType> *' differs in levels of indirection from 'bool'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(214): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(214): error C2039: 'getPointerTo': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(215): error C2143: syntax error: missing ';' before '{'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\linked_bag_.cpp(215): error C2447: '{': missing function header (old-style formal list?)
+  Node.cpp
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(15): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(15): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(15): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(15): error C2039: 'Node': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(16): error C2448: 'next': function-style initializer appears to be a function definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(20): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(20): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(20): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(20): error C2039: 'Node': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(20): error C2065: 'anItem': undeclared identifier
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(20): error C2374: 'next': redefinition; multiple initialization
+  c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(15): note: see declaration of 'next'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(21): error C2448: 'next': function-style initializer appears to be a function definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(25): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(25): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(25): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(25): error C2039: 'Node': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(26): error C2065: 'anItem': undeclared identifier
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(26): error C2374: 'item': redefinition; multiple initialization
+  c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(20): note: see declaration of 'item'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(26): error C2065: 'nextNodePtr': undeclared identifier
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(26): error C2374: 'next': redefinition; multiple initialization
+  c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(15): note: see declaration of 'next'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(27): error C2448: 'next': function-style initializer appears to be a function definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(31): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(31): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(31): error C2182: 'Node': illegal use of type 'void'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(31): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(31): error C2039: 'setItem': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(32): error C2143: syntax error: missing ';' before '{'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(32): error C2447: '{': missing function header (old-style formal list?)
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(37): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(37): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(37): error C2182: 'Node': illegal use of type 'void'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(37): error C2374: 'Node': redefinition; multiple initialization
+  c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(31): note: see declaration of 'Node'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(37): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(37): error C2039: 'setNext': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(38): error C2143: syntax error: missing ';' before '{'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(38): error C2447: '{': missing function header (old-style formal list?)
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(43): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(43): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(43): error C2371: 'Node': redefinition; different basic types
+  c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(31): note: see declaration of 'Node'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(43): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(43): error C2039: 'getItem': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(44): error C2143: syntax error: missing ';' before '{'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(44): error C2447: '{': missing function header (old-style formal list?)
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(49): error C2988: unrecognizable template declaration/definition
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(49): error C2143: syntax error: missing ';' before '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(49): error C2059: syntax error: '<'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(49): error C2039: 'getNext': is not a member of '`global namespace''
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(50): error C2143: syntax error: missing ';' before '{'
+c:\users\homer\source\repos\consoleapplication73\consoleapplication73\node.cpp(50): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...

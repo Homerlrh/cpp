@@ -1,0 +1,4 @@
+﻿  ConsoleApplication25.cpp
+c:\users\homer\source\repos\consoleapplication25\consoleapplication25\consoleapplication25.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\homer\source\repos\consoleapplication25\consoleapplication25\consoleapplication25.cpp(19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication25.vcxproj -> C:\Users\Homer\source\repos\ConsoleApplication25\Debug\ConsoleApplication25.exe

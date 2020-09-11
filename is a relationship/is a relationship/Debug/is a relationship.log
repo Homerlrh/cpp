@@ -1,0 +1,11 @@
+﻿  is a relationship.cpp
+  relationship.cpp
+c:\users\homer\source\repos\is a relationship\is a relationship\relationship.cpp(7): error C2653: 'Engine': is not a class or namespace name
+c:\users\homer\source\repos\is a relationship\is a relationship\relationship.cpp(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\homer\source\repos\is a relationship\is a relationship\relationship.cpp(9): error C2065: 'cylinder': undeclared identifier
+c:\users\homer\source\repos\is a relationship\is a relationship\relationship.cpp(10): warning C4508: 'Engine': function should return a value; 'void' return type assumed
+c:\users\homer\source\repos\is a relationship\is a relationship\relationship.cpp(12): error C2510: 'Engine': left of '::' must be a class/struct/union
+c:\users\homer\source\repos\is a relationship\is a relationship\relationship.cpp(14): error C3861: 'getCylinder': identifier not found
+c:\users\homer\source\repos\is a relationship\is a relationship\relationship.cpp(17): error C2510: 'Engine': left of '::' must be a class/struct/union
+c:\users\homer\source\repos\is a relationship\is a relationship\relationship.cpp(19): error C2065: 'cylinder': undeclared identifier
+  Generating Code...

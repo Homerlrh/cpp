@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2005: _main already defined in ConsoleApplication7.obj
+C:\Users\Homer\source\repos\ConsoleApplication7\Debug\ConsoleApplication7.exe : fatal error LNK1169: one or more multiply defined symbols found

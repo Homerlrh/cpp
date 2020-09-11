@@ -1,0 +1,4 @@
+﻿  ConsoleApplication74.cpp
+c:\users\homer\source\repos\consoleapplication74\consoleapplication74\consoleapplication74.cpp(15): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\homer\source\repos\consoleapplication74\consoleapplication74\consoleapplication74.cpp(15): warning C4018: '<': signed/unsigned mismatch
+c:\users\homer\source\repos\consoleapplication74\consoleapplication74\consoleapplication74.cpp(34): error C4716: 'checkBraces': must return a value
